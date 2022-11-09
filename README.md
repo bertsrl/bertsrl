@@ -1,8 +1,6 @@
 # 💫 About Me:
 Eager to make a career in the IT industry and learn new things every day, aiming towards opportunities-oriented development and professional working I am open to overcoming every challenge, working with a team, and using creative ideas.<br>
 
-I'm currently freelancing and I'm open to new opportunities. Please feel free to get in touch with me at andrei3edw@gmail.com and we can explore how I can help.<br>
-
 <ul> Specialties:
 <li> Creating user interactions on web pages, creating front-end and back-end website architecture.</li>
 <li> Building effective servers and databases.</li>
